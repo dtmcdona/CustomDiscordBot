@@ -1,0 +1,18 @@
+[
+	{
+		"key": [
+			"_default_"
+		],
+		"response": [
+			"Type !allReports for all reports filed..."
+		]
+	},
+	{
+		"key": [
+			"5/3/2018 Time:17:46:19"
+		],
+		"response": [
+			"Title of bug:<report title> \n Description:<description> \n Addtional information:<additional information>"
+		]
+	}
+]

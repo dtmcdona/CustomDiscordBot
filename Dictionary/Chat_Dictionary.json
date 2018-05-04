@@ -1,0 +1,26 @@
+[
+	{
+		"key": [
+			"_Opener_"
+		],
+		"response": [
+			"Hello"
+		]
+	},
+	{
+		"key": [
+			"_default_"
+		],
+		"response": [
+			"Does not compute..."
+		]
+	},
+	{
+		"key": [
+			"Hello"
+		],
+		"response": [
+			"How are you?"
+		]
+	}
+]
